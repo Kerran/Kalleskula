@@ -68,7 +68,7 @@ display: flex;
 
 
 <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
-<img src="storkalle.jpg" alt="foto på katt">
+<img src="storkalle1.jpg" alt="foto på katt">
 
 <h1 class="mitten">Kalle(s) kula</h1>
 <div class="text">
@@ -79,11 +79,11 @@ Min bästa kompis är – i brist på kattkompisar här på gården – min "bro
 </div>
   
 <div class="kattbilder">
-<img src="kallesov.jpg" alt="foto på katt">
+<img src="kallesov1.jpg" alt="foto på katt">
 
-<img src="kallebak.jpg" alt="foto på katt">
+<img src="kallebak1.jpg" alt="foto på katt">
 
-<img src="kallemage.jpg" alt="foto på katt">
+<img src="kallemage1.jpg" alt="foto på katt">
 </div>
 
 <div class="mamma">
