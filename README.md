@@ -68,7 +68,7 @@ display: flex;
 
 
 <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
-<img src="startkalle.jpg" alt="foto på katt">
+<img src="storkalle.jpg" alt="foto på katt">
 
 <h1 class="mitten">Kalle(s) kula</h1>
 <div class="text">
@@ -81,9 +81,9 @@ Min bästa kompis är – i brist på kattkompisar här på gården – min "bro
 <div class="kattbilder">
 <img src="kallesover.jpg" alt="foto på katt">
 
-<img src="https://images.unsplash.com/photo-1520560321666-4b36560e7979?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e36630cb3e85666a6329de34dc561b7c&auto=format&fit=crop&w=2550&q=80" alt="foto på katt">
+<img src="kallesbak.jpg" alt="foto på katt">
 
-<img src="https://images.unsplash.com/photo-1520560321666-4b36560e7979?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e36630cb3e85666a6329de34dc561b7c&auto=format&fit=crop&w=2550&q=80" alt="foto på katt">
+<img src="kallesmage.jpg" alt="foto på katt">
 </div>
 
 <div class="mamma">
