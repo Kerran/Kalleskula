@@ -83,7 +83,7 @@ Min bästa kompis är – i brist på kattkompisar här på gården – min "bro
 
 <img src="IMG_6602.jpg" alt="foto på katt">
 
-<img src="kallesov.jpg" alt="foto på katt">
+<img src="38448632_10155425854963239_913176065071906816_n.jpg" alt="foto på katt">
 </div>
 
 <div class="mamma">
