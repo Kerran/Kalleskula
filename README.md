@@ -20,7 +20,7 @@ h1 {
  border: 6px solid brown;
  background-color: orange;
  padding: 10px;
- width: 50%; 
+ width: 100%; 
 margin: 60px auto;}
 img {
   border: 6px solid brown;
@@ -49,7 +49,7 @@ display: flex;
 }
 .kattbilder img {
   width: 300px;
-  height:20%;
+  height:100%;
 }
 .mamma {
   display: flex;
